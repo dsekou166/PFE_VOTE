@@ -1,0 +1,12 @@
+table{
+    border: inset 5px black;
+    
+}
+.Titre{
+    text-align: center;
+    background-color: #0d6efd;
+    color: #ffffff;
+    font-size: 25px;
+    border: inset 5px gray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
